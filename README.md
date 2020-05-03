@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # covid_tracker
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bloc_dart
+App based on the flutter bloc to manage the states
+>>>>>>> efdbe5bb11ad28e4b60f9c292241701852731f1f
